@@ -1,6 +1,6 @@
 <?php
-$email = $_POST["email"];
-$password = $_POST["password"];
+$email = $_POST['email'];
+$password = $_POST['password'];
 echo $email . "<br>" . $password;
 
 echo "<h2>Spiegazione del codice PHP</h2>";

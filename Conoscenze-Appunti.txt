@@ -1,0 +1,8 @@
+La differenza tra il browser e il motore di ricerca è che il browser è l'applicazione che utilizziamo per navigare su internet (ad esempio Chrome, Safari o Edge), mentre il motore di ricerca è un sito o servizio che utilizziamo con il browser per cercare informazioni e siti su internet (ad esempio Google o Bing)
+
+------------------------------------------------------------------------------------------------------------
+get
+file:///C:/action_page.html?menu=SECONDO&cars=audi
+
+post
+file:///C:/action_page.html
